@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: db28801444349c1418c105d7bf04e081
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONGLAB-Avo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0824cb00749431744bb823e3c88092fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
